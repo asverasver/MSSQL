@@ -44,7 +44,7 @@
             this.ConnectButton.Location = new System.Drawing.Point(275, 12);
             this.ConnectButton.Name = "ConnectButton";
             this.ConnectButton.Size = new System.Drawing.Size(75, 23);
-            this.ConnectButton.TabIndex = 0;
+            this.ConnectButton.TabIndex = 4;
             this.ConnectButton.Text = "Connect";
             this.ConnectButton.UseVisualStyleBackColor = true;
             this.ConnectButton.Click += new System.EventHandler(this.ConnectButton_Click);
@@ -112,7 +112,7 @@
             this.InstanceTextBox.Location = new System.Drawing.Point(93, 14);
             this.InstanceTextBox.Name = "InstanceTextBox";
             this.InstanceTextBox.Size = new System.Drawing.Size(176, 20);
-            this.InstanceTextBox.TabIndex = 7;
+            this.InstanceTextBox.TabIndex = 0;
             // 
             // MainForm
             // 
